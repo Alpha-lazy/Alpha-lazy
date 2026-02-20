@@ -1,7 +1,7 @@
 # Hey I'm Anish
 
 # 💫 About Me:
-I'm currently learning advance python<br>ask me about web development
+<br>🏫 I am currently pursuing a B.Tech degree in Computer Science.<br>🌱 I'm currently learning advance python.<br>💬 Ask me about web development.<br>
 
 
 # 💻 Tech Stack:
